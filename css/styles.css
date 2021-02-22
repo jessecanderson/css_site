@@ -1,0 +1,122 @@
+body {
+  font-family: "Merriweather", serif;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  color: #66bfbf;
+  font-family: "Kaushan Script", cursive;
+  font-size: 90px;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #66bfbf;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999e;
+  font-size: 20px;
+}
+
+a {
+  color: #11999e;
+}
+
+hr {
+  border-top: 6px dotted #eaf6f6;
+  border-bottom: none;
+  margin: 100px auto 100px auto;
+  width: 4%;
+}
+
+span {
+  text-decoration: underline;
+}
+
+.top-container {
+  padding: 100px 0px 0px 0px;
+  background-color: #d0e8f2;
+  position: relative;
+}
+
+.middle-container {
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  color: #eaf6f6;
+  margin: 0;
+  padding: 25px 0px 25px 0px;
+  position: relative;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.profile-image {
+  width: 150px;
+  height: auto;
+}
+
+.swift-skills {
+  text-align: center;
+  margin: auto;
+  margin-bottom: 25px;
+  width: 600px;
+}
+
+.swift-skills h3 {
+  text-align: left;
+}
+
+.swift-skills p {
+  text-align: left;
+}
+
+.swift-skills img {
+  float: left;
+  height: 100px;
+  margin-right: 50px;
+  width: auto;
+}
+
+.full-stack-skills {
+  text-align: center;
+  margin: auto;
+  padding-bottom: 25px;
+  width: 600px;
+}
+
+.full-stack-skills h3 {
+  text-align: right;
+}
+
+.full-stack-skills p {
+  text-align: right;
+}
+
+.full-stack-skills img {
+  border-radius: 50%;
+  float: right;
+  height: 100px;
+  margin-left: 50px;
+  width: auto;
+}
+
+.contact-me {
+  margin: 0 auto 40px;
+  width: 40%;
+}
